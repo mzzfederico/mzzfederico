@@ -1,6 +1,6 @@
 ### Ajo 👋
 
-- 🔭 I’m currently working for Bitrock.it as Front End Developer
+- 🔭 I’m currently working for Perceptolab as Front End Developer
 - 🌱 I’m currently learning Rust and data structures
 - 📫 How to reach me:
   - [Linkedin](https://www.linkedin.com/in/federico-m-475b3869/)
